@@ -1,0 +1,12 @@
+# Compilados y datos locales
+out/
+target/
+data/
+*.class
+fuentes.txt
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+nbproject/private/
